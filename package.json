@@ -1,0 +1,23 @@
+{
+  "name": "k-react-native-layout",
+  "version": "0.1.0",
+  "license": "MIT",
+  "author": {
+    "name": "Leo Wang",
+    "email": "leowang721@gmail.com",
+    "url": "http://github.com/leowang721"
+  },
+  "contributors": [],
+  "main": "index.js",
+  "description": "Simple layout for React Native using HTML tags.",
+  "readme": "Simple layout for React Native using HTML tags..\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/leowang721/k-react-native-layout/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/leowang721/k-react-native-layout.git"
+  },
+  "homepage": "https://github.com/leowang721/k-react-native-layout"
+}
