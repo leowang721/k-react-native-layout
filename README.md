@@ -47,5 +47,5 @@ using for title
 
 ## UI, Ol
 
-list, but with prefix which supports a set of types, like ul/ol in HTML
+list with prefix, like ul/ol in HTML
 
